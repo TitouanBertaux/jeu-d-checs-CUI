@@ -1,4 +1,4 @@
-# jeu-d-checs-CUI
+# jeu-d'echecs-CUI
 chess game in java (CUI)
 
 Ce projet est un jeu d'échecs s'exécutant en console et réalisé en langage java.

@@ -5,10 +5,10 @@ Ce projet est un jeu d'échecs s'exécutant en console et réalisé en langage j
 
 Instruction de lancement :
 
-1. Positionnez vous dans le dossier "echecs"
+1. Positionnez vous dans le dossier : **"echecs"**
 
 2. Exécutez la commande :
-   javac *.java
+   **javac \*.java**
 
 3. Lancez le programme avec la commande :
-   java Lancement
+   **java Lancement**
